@@ -22,4 +22,4 @@ _#Или добавить в планировщик задач, где он бу
 
 **sudo crontab -e** 
 
-    0 0 1 * * /usr/share/r7-update.sh
+    0 0 1 * * root /usr/share/r7-update.sh
